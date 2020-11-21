@@ -1,3 +1,0 @@
-# program
-
-a simple program
